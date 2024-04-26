@@ -1,0 +1,7 @@
+PU : A,D,C,A,B,C,D,C,E,B,M TM M TM M,B,TD TD TD D D,D,A,D,B,E,B,A,A,6,D
+PPU : D,A,B,E,A,A,E,A,B,B,C,E,B,C,E
+PBM : B,A,D,7,A,E,B,D,B,A,A,D
+LID : A,B,A,B,E,D,A,C,B S S B B,D,A,D,B,A,E,A,C,A,B,B S S S B
+LIG : B,C,B,A,E,D,B,A,B,D,E,B,B,A,E
+PM : B,S,B,E,A,C,E
+PK : A,D,E,B,D,D,B
